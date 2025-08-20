@@ -18,12 +18,3 @@ GridSpace is a web application built using Next.js (TypeScript) that allows user
    ```
 
 Now, you should be able to access the frontend at `http://localhost:3000` (or whatever port Next.js assigns).
-
-## Additional Notes
-- Ensure your backend is running before starting the frontend.
-- If you face any issues, check the backend logs (`storage/logs/laravel.log`) or frontend console errors.
-- For production, configure environment variables properly and build the frontend using:
-  ```sh
-  npm run build
-  ```
-
